@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Anchorage 1770 is a boutique waterfront inn located in historic Beaufort, South Carolina]]></title>
         <description><![CDATA[Anchorage 1770 is a boutique waterfront inn located in historic Beaufort, South Carolina]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anchorage1770/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 21:47:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 21:52:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anchorage1770/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>testing 123</p>]]></description>
+            <link>https://thegrid.ai/anchorage1770/6f26c805-adef-4e56-aa66-ae955225d94f/index.html</link>
+            <guid isPermaLink="false">6f26c805-adef-4e56-aa66-ae955225d94f</guid>
+            <pubDate>Sat, 12 Dec 2015 21:51:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Anchorage 1770]]></title>
             <description><![CDATA[<article><h1>About Anchorage 1770</h1><p>The Anchorage has a 240 year history in the South Carolina Lowcountry. The owners Frank & Amy Lesesne,moved from Atlanta and opened the new 15 room boutique inn in the old manse in July of 2015. Built in 1770, the completed renovations include 13 in suite bathrooms, a commercial kitchen, an elevator and a Top Deck. A cottage with 2 additional guest rooms accompanies the waterfront mansion in downtown historic Beaufort, SC. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3995911a07ab337776c6fba7fcbbb74d0a8cbd4.jpg"></article>]]></description>
-            <link>undefinedabout-anchorage-1770/index.html</link>
+            <link>https://thegrid.ai/anchorage1770/about-anchorage-1770/index.html</link>
             <guid isPermaLink="false">ec5fdc91-50f1-4c96-ae30-dee60d5ec793</guid>
             <pubDate>Sat, 12 Dec 2015 21:47:07 GMT</pubDate>
         </item>
