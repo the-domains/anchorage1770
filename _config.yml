@@ -1,7 +1,7 @@
 name: Anchorage1770
 favicon: null
-layout_spectrum: 0.6894881052430719
-typography_spectrum: 0.19220513524487615
+layout_spectrum: 0.99693
+typography_spectrum: 0.24642
 title: 'Anchorage 1770 is a boutique waterfront inn located in historic Beaufort, South Carolina'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.25750187737867236
+    - '#040701'
+    - '#ffffff'
+    - '#32415e'
+    - '#c6a7a9'
+    - '#9b552a'
+  brandStrength: 0.5
   lightness: 0.20610953425057232
-  saturation: 0.14557023742236197
+  saturation: 0.0625
   rhythmicContrast: 0.03702485957182944
 purpose: []
